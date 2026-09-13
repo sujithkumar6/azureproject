@@ -1,0 +1,15 @@
+{
+	"name": "df-azureproject24",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6700311c-a15f-48ec-9f62-4cb462e5f8e2",
+		"tenantId": "0f799c43-3254-4cd6-bb83-989e56a805e5"
+	}
+}
